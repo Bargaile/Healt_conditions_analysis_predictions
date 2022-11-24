@@ -25,8 +25,11 @@ The research was made and three different data sets with different resampling te
 -**Hyperparameter tuningL: Randomized Search, Optuna.**
 
 **HYPERTENSION PREDICTION**
+
 **AVERAGE GLUCOSE LEVEL PREDICTION** - regression and classifications (binned values).
+
 **BMI** - regression and classification, binned values.
+
 **MULTI OUTPUT PREDICTIONS for combinations of all these targets**
 
 
